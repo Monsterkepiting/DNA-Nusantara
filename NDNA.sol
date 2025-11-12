@@ -5,8 +5,8 @@ pragma solidity ^0.8.20;
 ---------------------------------------------
 Nusantara DNA (NDNA)
 Created by: Monsterkepiting
-Network: Polygon Amoy (Testnet)
-Purpose: Proof of Heritage experiment token
+Network: Polygon Mainnet
+Purpose: NDNA TOken
 ---------------------------------------------
 */
 
